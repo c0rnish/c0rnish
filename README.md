@@ -78,7 +78,7 @@
     <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"
         ><picture>
             <source
-                srcset="assets/nextjs-icon-dark.svg"
+                srcset="assets/nextjs-icon-light.svg"
                 media="(prefers-color-scheme: dark)" />
             <source
                 srcset="assets/nextjs-icon-light.svg"
@@ -87,7 +87,6 @@
                 src="assets/nextjs-icon-light.svg"
                 alt="next.js"
                 height="40"
-                width="40"
                 align="center" /></picture
     ></a>
 </p>
