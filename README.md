@@ -29,13 +29,13 @@
     <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"
         ><picture>
             <source
-                srcset="assets/tailwindcss-icon-light.svg"
+                srcset="assets/tailwindcss-icon-dark.svg"
                 media="(prefers-color-scheme: dark)" />
             <source
                 srcset="assets/tailwindcss-icon-light.svg"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/tailwindcss-icon-light.svg"
+                src="assets/tailwindcss-icon-dark.svg"
                 alt="next.js"
                 height="20"
                 align="center" /></picture
