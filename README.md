@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrvan</h1>
 <h2 align="center">An undergrad engineering student</h2>
-
+<hr />
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
@@ -136,6 +136,28 @@
             height="40"
             align="center"
     /></a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"
+        ><img
+            src="assets/node-icon.svg"
+            alt="node.js"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
+    <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer"
+        ><picture>
+            <source
+                srcset="assets/express-icon-dark.svg"
+                media="(prefers-color-scheme: dark)" />
+            <source
+                srcset="assets/express-icon-light.svg"
+                media="(prefers-color-scheme: light)" />
+            <img
+                src="assets/express-icon-light.svg"
+                alt="express.js"
+                height="20"
+                align="center" /></picture
+    ></a>
     <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"
         ><img
             src="assets/postman-icon.svg"
@@ -164,6 +186,7 @@
             align="center"
     /></a>
 </p>
+
 <hr />
 
 <h3 align="left">Links:</h3>
