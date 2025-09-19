@@ -86,9 +86,17 @@
             <img
                 src="assets/nextjs-icon-light.svg"
                 alt="next.js"
-                height="40"
+                height="23"
                 align="center" /></picture
     ></a>
+    <a href="https://react.dev" target="_blank" rel="noopener noreferrer"
+        ><img
+            src="assets/react-icon.svg"
+            alt="linux"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
 </p>
 
 <hr />
