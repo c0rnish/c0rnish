@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 - 📫 Reach out: **shrvansudhakara@gmail.com**
-- ⚡ Fun fact: **I love Shawarma 🌯**
+- ⚡ Fun fact: **I love Shawarma**
 <hr />
 
 <h3 align="left">Tech Stack:</h3>
