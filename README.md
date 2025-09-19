@@ -15,7 +15,7 @@
             <img
                 src="assets/nextjs-icon-light.svg"
                 alt="next.js"
-                height="23"
+                height="20"
                 align="center" /></picture
     ></a>
     <a href="https://react.dev" target="_blank" rel="noopener noreferrer"
