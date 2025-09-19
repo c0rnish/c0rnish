@@ -5,6 +5,36 @@
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
     <a
+        href="https://en.wikipedia.org/wiki/C_(programming_language)"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><img
+            src="assets/c-icon.svg"
+            alt="git"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
+    <a
+        href="https://en.wikipedia.org/wiki/C%2B%2B"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><img
+            src="assets/cpp-icon.svg"
+            alt="c++"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
+    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"
+        ><img
+            src="assets/python-icon.svg"
+            alt="python"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
+    <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noopener noreferrer"
@@ -22,36 +52,6 @@
         ><img
             src="assets/typescript-icon.svg"
             alt="typescript"
-            width="40"
-            height="40"
-            align="center"
-    /></a>
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"
-        ><img
-            src="assets/python-icon.svg"
-            alt="python"
-            width="40"
-            height="40"
-            align="center"
-    /></a>
-    <a
-        href="https://en.wikipedia.org/wiki/C%2B%2B"
-        target="_blank"
-        rel="noopener noreferrer"
-        ><img
-            src="assets/cpp-icon.svg"
-            alt="c++"
-            width="40"
-            height="40"
-            align="center"
-    /></a>
-    <a
-        href="https://en.wikipedia.org/wiki/C_(programming_language)"
-        target="_blank"
-        rel="noopener noreferrer"
-        ><img
-            src="assets/c-icon.svg"
-            alt="git"
             width="40"
             height="40"
             align="center"
