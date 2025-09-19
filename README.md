@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shrvan</h1>
-<h3 align="center">An undergrad engineering student</h3>
+<h3 align="center">An engineering undergrad </h3>
+<hr />
+
+<h3 align="left">About:</h3>
+
+- 🌱 I’m currently learning **Next.js**
+- 📫 Mail: **shrvansudhakara@gmail.com**
+- ⚡ Fun fact: **I love Shawarma 🌯**
 <hr />
 
 <h3 align="left">Tech Stack:</h3>
