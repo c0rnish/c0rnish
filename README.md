@@ -3,8 +3,6 @@
 <hr />
 
 <h3 align="left">Tech Stack:</h3>
-
-<h4>Languages:</h4>
 <p align="left">
     <a
         href="https://en.wikipedia.org/wiki/JavaScript"
@@ -15,6 +13,7 @@
             alt="javascript"
             width="40"
             height="40"
+            align="center"
     /></a>
     <a
         href="https://en.wikipedia.org/wiki/TypeScript"
@@ -25,51 +24,74 @@
             alt="typescript"
             width="40"
             height="40"
+            align="center"
     /></a>
     <a
         href="https://en.wikipedia.org/wiki/Python_(programming_language)"
         target="_blank"
         rel="noopener noreferrer"
-        ><img src="assets/python-icon.svg" alt="python" width="40" height="40"
+        ><img
+            src="assets/python-icon.svg"
+            alt="python"
+            width="40"
+            height="40"
+            align="center"
     /></a>
     <a
         href="https://en.wikipedia.org/wiki/C%2B%2B"
         target="_blank"
         rel="noopener noreferrer"
-        ><img src="assets/cpp-icon.svg" alt="c++" width="40" height="40"
+        ><img
+            src="assets/cpp-icon.svg"
+            alt="c++"
+            width="40"
+            height="40"
+            align="center"
     /></a>
     <a href="assets/c-icon.svg" target="_blank" rel="noopener noreferrer"
-        ><img src="assets/c-icon.svg" alt="git" width="40" height="40"
+        ><img
+            src="assets/c-icon.svg"
+            alt="git"
+            width="40"
+            height="40"
+            align="center"
     /></a>
     <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"
-        ><img src="assets/git-icon.svg" alt="git" width="40" height="40"
+        ><img
+            src="assets/git-icon.svg"
+            alt="git"
+            width="40"
+            height="40"
+            align="center"
     /></a>
     <a
         href="https://www.kernel.org/category/about.html"
         target="_blank"
         rel="noopener noreferrer"
-        ><img src="assets/linux-icon.svg" alt="linux" width="40" height="40"
+        ><img
+            src="assets/linux-icon.svg"
+            alt="linux"
+            width="40"
+            height="40"
+            align="center"
     /></a>
-</p>
-
-<h4>Frontend:</h4>
-<p align="left">
     <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"
         ><picture>
             <source
-                srcset="assets/nextjs-icon-dark"
+                srcset="assets/nextjs-icon-dark.svg"
                 media="(prefers-color-scheme: dark)" />
             <source
-                srcset="assets/nextjs-icon-light"
+                srcset="assets/nextjs-icon-light.svg"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/nextjs-icon-dark.svg"
-                alt="x.com/shrvansudhakara"
+                src="assets/nextjs-icon-light.svg"
+                alt="next.js"
                 height="40"
                 width="40"
                 align="center" /></picture
     ></a>
 </p>
+
 <hr />
 
 <h3 align="left">Links:</h3>
