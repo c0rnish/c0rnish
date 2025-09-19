@@ -272,7 +272,7 @@
                 srcset="assets/leetcode-icon-light"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/leetcode-icon-light.svg"
+                src="assets/leetcode-icon-dark.svg"
                 alt="leetcode.com/shrvansudhakara"
                 height="30"
                 width="30"
