@@ -4,6 +4,42 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
+    <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"
+        ><picture>
+            <source
+                srcset="assets/nextjs-icon-dark.svg"
+                media="(prefers-color-scheme: dark)" />
+            <source
+                srcset="assets/nextjs-icon-light.svg"
+                media="(prefers-color-scheme: light)" />
+            <img
+                src="assets/nextjs-icon-light.svg"
+                alt="next.js"
+                height="23"
+                align="center" /></picture
+    ></a>
+    <a href="https://react.dev" target="_blank" rel="noopener noreferrer"
+        ><img
+            src="assets/react-icon.svg"
+            alt="react"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
+    <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"
+        ><picture>
+            <source
+                srcset="assets/nextjs-icon-dark.svg"
+                media="(prefers-color-scheme: dark)" />
+            <source
+                srcset="assets/tailwindcss-icon-light.svg"
+                media="(prefers-color-scheme: light)" />
+            <img
+                src="assets/tailwindcss-icon-dark.svg"
+                alt="next.js"
+                height="23"
+                align="center" /></picture
+    ></a>
     <a
         href="https://en.wikipedia.org/wiki/JavaScript"
         target="_blank"
@@ -70,28 +106,6 @@
         rel="noopener noreferrer"
         ><img
             src="assets/linux-icon.svg"
-            alt="linux"
-            width="40"
-            height="40"
-            align="center"
-    /></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"
-        ><picture>
-            <source
-                srcset="assets/nextjs-icon-dark.svg"
-                media="(prefers-color-scheme: dark)" />
-            <source
-                srcset="assets/nextjs-icon-light.svg"
-                media="(prefers-color-scheme: light)" />
-            <img
-                src="assets/nextjs-icon-light.svg"
-                alt="next.js"
-                height="23"
-                align="center" /></picture
-    ></a>
-    <a href="https://react.dev" target="_blank" rel="noopener noreferrer"
-        ><img
-            src="assets/react-icon.svg"
             alt="linux"
             width="40"
             height="40"
