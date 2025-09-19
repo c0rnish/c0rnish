@@ -3,8 +3,9 @@
 <hr />
 
 <h3 align="left">Tech Stack:</h3>
+
+<h4>Languages:</h4>
 <p align="left">
-    <h4>Languages:</h4>
     <a
         href="https://en.wikipedia.org/wiki/JavaScript"
         target="_blank"
@@ -49,6 +50,25 @@
         rel="noopener noreferrer"
         ><img src="assets/linux-icon.svg" alt="linux" width="40" height="40"
     /></a>
+</p>
+
+<h4>Frontend:</h4>
+<p align="left">
+    <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"
+        ><picture>
+            <source
+                srcset="assets/nextjs-icon-dark"
+                media="(prefers-color-scheme: dark)" />
+            <source
+                srcset="assets/nextjs-icon-light"
+                media="(prefers-color-scheme: light)" />
+            <img
+                src="assets/nextjs-icon-dark.svg"
+                alt="x.com/shrvansudhakara"
+                height="40"
+                width="40"
+                align="center" /></picture
+    ></a>
 </p>
 <hr />
 
