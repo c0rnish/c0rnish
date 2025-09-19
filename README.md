@@ -26,6 +26,20 @@
             height="40"
             align="center"
     /></a>
+    <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer"
+        ><picture>
+            <source
+                srcset="assets/shadcn-icon-dark.svg"
+                media="(prefers-color-scheme: dark)" />
+            <source
+                srcset="assets/shadcn-icon-light.svg"
+                media="(prefers-color-scheme: light)" />
+            <img
+                src="assets/shadcn-icon-light.svg"
+                alt="next.js"
+                height="23"
+                align="center" /></picture
+    ></a>
     <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"
         ><picture>
             <source
@@ -35,7 +49,7 @@
                 srcset="assets/tailwindcss-icon-light.svg"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/tailwindcss-icon-dark.svg"
+                src="assets/tailwindcss-icon-light.svg"
                 alt="next.js"
                 height="20"
                 align="center" /></picture
@@ -52,7 +66,18 @@
             align="center"
     /></a>
     <a
-        href="https://en.wikipedia.org/wiki/JavaScript"
+        href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><img
+            src="assets/html-icon.svg"
+            alt="html"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
+    <a
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noopener noreferrer"
         ><img
@@ -63,7 +88,7 @@
             align="center"
     /></a>
     <a
-        href="https://en.wikipedia.org/wiki/TypeScript"
+        href="https://www.typescriptlang.org"
         target="_blank"
         rel="noopener noreferrer"
         ><img
@@ -73,10 +98,7 @@
             height="40"
             align="center"
     /></a>
-    <a
-        href="https://en.wikipedia.org/wiki/Python_(programming_language)"
-        target="_blank"
-        rel="noopener noreferrer"
+    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"
         ><img
             src="assets/python-icon.svg"
             alt="python"
@@ -95,7 +117,10 @@
             height="40"
             align="center"
     /></a>
-    <a href="assets/c-icon.svg" target="_blank" rel="noopener noreferrer"
+    <a
+        href="https://en.wikipedia.org/wiki/C_(programming_language)"
+        target="_blank"
+        rel="noopener noreferrer"
         ><img
             src="assets/c-icon.svg"
             alt="git"
