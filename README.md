@@ -139,7 +139,7 @@
     <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"
         ><img
             src="assets/postman-icon.svg"
-            alt="git"
+            alt="postman"
             width="40"
             height="40"
             align="center"
