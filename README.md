@@ -15,7 +15,7 @@
             <img
                 src="assets/nextjs-icon-light.svg"
                 alt="next.js"
-                height="20"
+                height="23"
                 align="center" /></picture
     ></a>
     <a href="https://react.dev" target="_blank" rel="noopener noreferrer"
@@ -29,17 +29,28 @@
     <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"
         ><picture>
             <source
-                srcset="assets/tailwindcss-icon-dark.svg"
+                srcset="assets/tailwindcss-icon-light.svg"
                 media="(prefers-color-scheme: dark)" />
             <source
                 srcset="assets/tailwindcss-icon-light.svg"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/tailwindcss-icon-dark.svg"
+                src="assets/tailwindcss-icon-light.svg"
                 alt="next.js"
-                height="23"
+                height="20"
                 align="center" /></picture
     ></a>
+    <a
+        href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><img
+            src="assets/css-icon.svg"
+            alt="css"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
     <a
         href="https://en.wikipedia.org/wiki/JavaScript"
         target="_blank"
