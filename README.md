@@ -4,18 +4,50 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
-    <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
-        <img src="assets/git-icon.svg" alt="git" width="40" height="40"
+    <h4>Languages:</h4>
+    <a
+        href="https://en.wikipedia.org/wiki/JavaScript"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><img
+            src="assets/javascript-icon.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+    /></a>
+    <a
+        href="https://en.wikipedia.org/wiki/TypeScript"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><img
+            src="assets/typescript-icon.svg"
+            alt="typescript"
+            width="40"
+            height="40"
+    /></a>
+    <a
+        href="https://en.wikipedia.org/wiki/Python_(programming_language)"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><img src="assets/python-icon.svg" alt="python" width="40" height="40"
+    /></a>
+    <a
+        href="https://en.wikipedia.org/wiki/C%2B%2B"
+        target="_blank"
+        rel="noopener noreferrer"
+        ><img src="assets/cpp-icon.svg" alt="c++" width="40" height="40"
+    /></a>
+    <a href="assets/c-icon.svg" target="_blank" rel="noopener noreferrer"
+        ><img src="assets/c-icon.svg" alt="git" width="40" height="40"
+    /></a>
+    <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"
+        ><img src="assets/git-icon.svg" alt="git" width="40" height="40"
     /></a>
     <a
         href="https://www.kernel.org/category/about.html"
         target="_blank"
         rel="noopener noreferrer"
-    >
-        <img src="assets/linux-icon.svg" alt="linux" width="40" height="40"
-    /></a>
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-        <img src="assets/python-icon.svg" alt="python" width="40" height="40"
+        ><img src="assets/linux-icon.svg" alt="linux" width="40" height="40"
     /></a>
 </p>
 <hr />
