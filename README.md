@@ -29,7 +29,7 @@
     <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"
         ><picture>
             <source
-                srcset="assets/nextjs-icon-dark.svg"
+                srcset="assets/tailwindcss-icon-dark.svg"
                 media="(prefers-color-scheme: dark)" />
             <source
                 srcset="assets/tailwindcss-icon-light.svg"
