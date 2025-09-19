@@ -5,7 +5,7 @@
 <h3 align="left">About:</h3>
 
 - 🌱 I’m currently learning **Next.js**
-- 📫 Contact: **shrvansudhakara@gmail.com**
+- 📫 Reach out: **shrvansudhakara@gmail.com**
 - ⚡ Fun fact: **I love Shawarma 🌯**
 <hr />
 
