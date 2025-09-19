@@ -96,4 +96,3 @@
                 align="center" /></picture
     ></a>
 </p>
-<hr />
