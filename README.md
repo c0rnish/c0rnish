@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrvan</h1>
 <h2 align="center">An undergrad engineering student</h2>
-<hr />
+
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
