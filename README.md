@@ -36,7 +36,7 @@
                 media="(prefers-color-scheme: light)" />
             <img
                 src="assets/shadcn-icon-light.svg"
-                alt="next.js"
+                alt="shadcn"
                 height="23"
                 align="center" /></picture
     ></a>
@@ -72,6 +72,14 @@
         ><img
             src="assets/html-icon.svg"
             alt="html"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
+    <a href="https://zod.dev" target="_blank" rel="noopener noreferrer"
+        ><img
+            src="assets/zod-icon.svg"
+            alt="zod"
             width="40"
             height="40"
             align="center"
@@ -148,7 +156,6 @@
             align="center"
     /></a>
 </p>
-
 <hr />
 
 <h3 align="left">Links:</h3>
