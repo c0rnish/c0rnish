@@ -158,6 +158,28 @@
                 height="20"
                 align="center" /></picture
     ></a>
+    <a href="https://mongoosejs.com/" target="_blank" rel="noopener noreferrer"
+        ><img
+            src="assets/mongoose-icon.svg"
+            alt="mongoose"
+            width="40"
+            height="40"
+            align="center"
+    /></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"
+        ><picture>
+            <source
+                srcset="assets/mongodb-icon-dark.svg"
+                media="(prefers-color-scheme: dark)" />
+            <source
+                srcset="assets/mongodb-icon-light.svg"
+                media="(prefers-color-scheme: light)" />
+            <img
+                src="assets/mongodb-icon-light.svg"
+                alt="mongodb"
+                height="20"
+                align="center" /></picture
+    ></a>
     <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"
         ><img
             src="assets/postman-icon.svg"
