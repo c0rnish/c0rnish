@@ -44,8 +44,8 @@
             <img
                 src="assets/x-icon-dark.svg"
                 alt="x.com/shrvansudhakara"
-                height="30"
-                width="30"
+                height="40"
+                width="40"
                 align="center" /></picture
     ></a>
     <a
@@ -62,8 +62,8 @@
             <img
                 src="assets/linkedin-icon-light.svg"
                 alt="linkedin.com/in/shrvansudhakara"
-                height="30"
-                width="30"
+                height="40"
+                width="40"
                 align="center" /></picture
     ></a>
     <a
@@ -74,8 +74,8 @@
             align="center"
             src="assets/hackerrank-icon.svg"
             alt="hackerrank.com/shrvansudhakara"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
     /></a>
     <a
         href="https://www.leetcode.com/shrvansudhakara"
@@ -91,8 +91,9 @@
             <img
                 src="assets/leetcode-icon-light.svg"
                 alt="leetcode.com/shrvansudhakara"
-                height="30"
-                width="30"
+                height="40"
+                width="40"
                 align="center" /></picture
     ></a>
 </p>
+<hr />
