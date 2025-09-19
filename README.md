@@ -4,26 +4,18 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
+    <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
+        <img src="assets/git-icon.svg" alt="git" width="30" height="30"
     /></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux"
-            width="40"
-            height="40"
+    <a
+        href="https://www.kernel.org/category/about.html"
+        target="_blank"
+        rel="noopener noreferrer"
+    >
+        <img src="assets/linux-icon.svg" alt="linux" width="30" height="30"
     /></a>
     <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
-            width="40"
-            height="40"
+        <img src="assets/python-icon.svg" alt="python" width="30" height="30"
     /></a>
 </p>
 <hr />
