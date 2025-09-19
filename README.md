@@ -269,7 +269,7 @@
                 srcset="assets/leetcode-icon-dark.svg"
                 media="(prefers-color-scheme: dark)" />
             <source
-                srcset="assets/leetcode-icon-light"
+                srcset="assets/leetcode-icon-light.svg"
                 media="(prefers-color-scheme: light)" />
             <img
                 src="assets/leetcode-icon-dark.svg"
